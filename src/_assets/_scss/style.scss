@@ -1,0 +1,56 @@
+@import "mixins.scss";
+@use 'palette'; 
+
+$black: #000;
+$white: #fff;
+$primary: #666666;
+
+body {
+  margin: 0px;
+  overflow-x: hidden;
+}
+
+.bg-black {
+  background: $black;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.w-full {
+  width: 100%;
+}
+
+.py-4 {
+  padding: 1rem;
+}
+
+.text-white {
+  color: $white;
+}
+
+a,
+a:hover {
+  outline: none;
+  text-decoration: none;
+}
+.contentWrapper {
+  height: calc(100vh - 116px);
+  overflow-y: auto;
+}
+
+.btn-primary {
+  @include button-variant($white,$primary,$primary);
+  margin-right: 10px;
+}
+
+.card-content {
+  display: "flex";
+  align-items: "center";
+}
+.card-media{
+  height: 140px;
+  align-items: center;
+}
+

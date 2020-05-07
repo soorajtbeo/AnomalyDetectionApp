@@ -1,0 +1,69 @@
+{
+  "homepage": "http://soorajtbeo.github.io/AnomalyDetectionApp",
+  "name": "anomaly-detection-application",
+  "version": "1.0.0",
+  "description": "Application for Anomaly Detection",
+  "private": true,
+  "keywords": [
+    "react",
+    "materialui",
+    "redux"
+  ],
+  "author": "Hauni",
+  "license": "ISC",
+  "dependencies": {
+    "@material-ui/core": "^4.9.10",
+    "@material-ui/icons": "^4.9.1",
+    "@material-ui/styles": "^4.9.10",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.5.0",
+    "@testing-library/user-event": "^7.2.1",
+    "axios": "^0.19.2",
+    "css-loader": "^3.5.3",
+    "file-loader": "^6.0.0",
+    "history": "^4.10.1",
+    "mini-css-extract-plugin": "^0.9.0",
+    "node-sass": "^4.14.0",
+    "react": "^16.13.1",
+    "react-beautiful-dnd": "13.0.0",
+    "react-dom": "^16.13.1",
+    "react-redux": "^7.2.0",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "3.4.1",
+    "react-textarea-autosize": "7.1.2",
+    "redux": "^4.0.5",
+    "redux-devtools-extension": "2.13.8",
+    "redux-logger": "3.0.6",
+    "redux-thunk": "2.3.0",
+    "sass-loader": "^8.0.2",
+    "style-loader": "^1.2.0",
+    "styled-components": "5.1.0",
+    "url-loader": "^4.1.0"
+  },
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
