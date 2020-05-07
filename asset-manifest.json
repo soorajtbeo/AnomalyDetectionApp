@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/AnomalyDetectionApp/static/css/main.a7247a1e.chunk.css",
+    "main.js": "/AnomalyDetectionApp/static/js/main.b8494112.chunk.js",
+    "main.js.map": "/AnomalyDetectionApp/static/js/main.b8494112.chunk.js.map",
+    "runtime-main.js": "/AnomalyDetectionApp/static/js/runtime-main.adacfc1a.js",
+    "runtime-main.js.map": "/AnomalyDetectionApp/static/js/runtime-main.adacfc1a.js.map",
+    "static/js/2.c1e583e6.chunk.js": "/AnomalyDetectionApp/static/js/2.c1e583e6.chunk.js",
+    "static/js/2.c1e583e6.chunk.js.map": "/AnomalyDetectionApp/static/js/2.c1e583e6.chunk.js.map",
+    "index.html": "/AnomalyDetectionApp/index.html",
+    "precache-manifest.796ca4e00b45427922acefea755c7800.js": "/AnomalyDetectionApp/precache-manifest.796ca4e00b45427922acefea755c7800.js",
+    "service-worker.js": "/AnomalyDetectionApp/service-worker.js",
+    "static/css/main.a7247a1e.chunk.css.map": "/AnomalyDetectionApp/static/css/main.a7247a1e.chunk.css.map",
+    "static/js/2.c1e583e6.chunk.js.LICENSE.txt": "/AnomalyDetectionApp/static/js/2.c1e583e6.chunk.js.LICENSE.txt",
+    "static/media/app.scss": "/AnomalyDetectionApp/static/media/HelveticaNeueMediumItalic.9a9a6ae7.woff",
+    "static/media/machine.jpg": "/AnomalyDetectionApp/static/media/machine.e7e22ffb.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.adacfc1a.js",
+    "static/js/2.c1e583e6.chunk.js",
+    "static/css/main.a7247a1e.chunk.css",
+    "static/js/main.b8494112.chunk.js"
+  ]
+}
